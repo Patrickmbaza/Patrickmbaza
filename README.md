@@ -1,16 +1,16 @@
-## Hi there 👋
 
+Hi there 👋 I'm Mbaza Goteh Patrick
+🚀 A DevOps Engineer & Cloud Enthusiast from Nigeria
+🔧 Passionate about automation, infrastructure as code, cloud-native technologies, and continuous delivery pipelines.
 <!--
-**Patrickmbaza/Patrickmbaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 About Me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+    🧰 3+ years in IT infrastructure & system administration
+    🧪 Transitioned into DevOps with hands-on in CI/CD, Docker, Kubernetes, Ansible, Terraform, and AWS
+    🌐 Built multiple personal DevOps tools and hosted a public Script Generator
+    🎯 Currently exploring DevSecOps, Argo CD, and Microservices
 -->
+
+💼 Skills & Tools
+
+
