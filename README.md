@@ -107,8 +107,6 @@
           <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
           <br />
           <img src="https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white" />
-          <br />
-          <img src="https://img.shields.io/badge/Azure_AKS-0078D4?style=for-the-badge&logo=azure-kubernetes-service&logoColor=white" />
         </p>
       </td>
     </tr>
@@ -119,8 +117,6 @@
           <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
           <br />
           <img src="https://img.shields.io/badge/AWS_CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-          <br />
-          <img src="https://img.shields.io/badge/ARM_Templates-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
         </p>
       </td>
       <td align="center" width="33%">
