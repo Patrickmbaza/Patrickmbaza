@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Goteh%20Mbaza%20Patrick&fontSize=40&fontAlignY=35&animation=fadeIn&desc=DevOps%20%26%20AI%20Engineer&descSize=18&descAlignY=50" width="100%"/>
-  
   <h1>
     <strong>Hey</strong>
     <img src="assets/images/wave.gif" width="30" alt="wave"> 
@@ -17,9 +15,9 @@
   </p>
 </div>
 
-<p align="center">
-  <img src="assets/images/gradient-line.png" width="100%" height="6px" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Patrickmbaza/Patrickmbaza/main/assets/gradient-line.png" width="100%" height="4px" />
+</div>
 
 <h2>🙋 About Me</h2>
 
@@ -70,9 +68,9 @@
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Patrickmbaza&query=$.public_repos&label=Public%20Repos&style=flat-square&color=34a89d&labelColor=0d1117" />
 </p>
 
-<p align="center">
-  <img src="assets/images/gradient-line.png" width="100%" height="6px" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Patrickmbaza/Patrickmbaza/main/assets/gradient-line.png" width="100%" height="4px" />
+</div>
 
 <h2>🛠️ Tech Stack</h2>
 
@@ -165,9 +163,9 @@
   </table>
 </div>
 
-<p align="center">
-  <img src="assets/images/gradient-line.png" width="100%" height="6px" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Patrickmbaza/Patrickmbaza/main/assets/gradient-line.png" width="100%" height="4px" />
+</div>
 
 <details open>
   <summary><h2>📊 GitHub Stats</h2></summary>
@@ -212,9 +210,9 @@
   <img src="https://raw.githubusercontent.com/Patrickmbaza/Patrickmbaza/output/pacman-contribution-graph.svg" />
 </div>
 
-<p align="center">
-  <img src="assets/images/gradient-line.png" width="100%" height="6px" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Patrickmbaza/Patrickmbaza/main/assets/gradient-line.png" width="100%" height="4px" />
+</div>
 
 ## 🔗 Let’s Connect  
 
@@ -224,12 +222,8 @@
   <a href="https://github.com/Patrickmbaza"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="assets/images/gradient-line.png" width="100%" height="6px" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Patrickmbaza/Patrickmbaza/main/assets/gradient-line.png" width="100%" height="4px" />
+</div>
 
 <h6 align="center">⚡ Building scalable infrastructure • Automating everything • Powering AI systems</h6>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
-</div>
