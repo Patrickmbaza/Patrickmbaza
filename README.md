@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Goteh%20Mbaza%20Patrick&fontSize=40&fontAlignY=35&animation=fadeIn&desc=DevOps%20%26%20AI%20Engineer&descSize=18&descAlignY=50" width="100%"/>
+  
   <h1>
     <strong>Hey</strong>
     <img src="assets/images/wave.gif" width="30" alt="wave"> 
@@ -10,7 +12,7 @@
   <p>
      <em>
 <a href="https://github.com/Patrickmbaza">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=14&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+Kubernetes+%7C+Terraform+%7C+AWS+%7C+Azure;Building+Scalable+AI+Infrastructure+%26+Automation+Pipelines;CI%2FCD+%7C+MLOps+%7C+Cloud+Native+Systems" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer+%7C+Kubernetes+%7C+Terraform+%7C+AWS+%7C+Azure;Building+Scalable+AI+Infrastructure+%26+Automation+Pipelines;CI%2FCD+%7C+MLOps+%7C+Cloud+Native+Systems" alt="Typing SVG" /></a>
      </em> 
   </p>
 </div>
@@ -62,10 +64,10 @@
 <br>
 
 <p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=Patrickmbaza&label=Profile%20Views&color=bf91f3&style=flat" />    
-  <img src="https://img.shields.io/github/followers/Patrickmbaza?label=Followers&style=flat&color=70a5fd&labelColor=0d1117" />
-  <img src="https://img.shields.io/github/stars/Patrickmbaza?label=Stars&style=flat&color=FFD700&labelColor=0d1117" />    
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Patrickmbaza&query=$.public_repos&label=Public%20Repos&style=flat&color=34a89d&labelColor=0d1117" />
+  <img src="https://komarev.com/ghpvc/?username=Patrickmbaza&label=Profile%20Views&color=6C63FF&style=flat-square" />    
+  <img src="https://img.shields.io/github/followers/Patrickmbaza?label=Followers&style=flat-square&color=6C63FF&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/stars/Patrickmbaza?label=Stars&style=flat-square&color=FFD700&labelColor=0d1117" />    
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Patrickmbaza&query=$.public_repos&label=Public%20Repos&style=flat-square&color=34a89d&labelColor=0d1117" />
 </p>
 
 <p align="center">
@@ -74,40 +76,78 @@
 
 <h2>🛠️ Tech Stack</h2>
 
-<h3>☁️ Cloud Platforms</h3>
-<p>
-  AWS • Azure
-</p>
+<br>
 
-<h3>⚙️ DevOps & CI/CD</h3>
-<p>
-  Jenkins • GitHub Actions • Azure DevOps
-</p>
-
-<h3>📦 Containers & Orchestration</h3>
-<p>
-  Docker • Kubernetes • Helm • EKS • AKS
-</p>
-
-<h3>🏗️ Infrastructure as Code</h3>
-<p>
-  Terraform • CloudFormation • ARM Templates
-</p>
-
-<h3>🤖 AI & Backend</h3>
-<p>
-  Python • FastAPI • AI APIs • MLOps
-</p>
-
-<h3>📊 Monitoring & Logging</h3>
-<p>
-  Prometheus • Grafana • ELK Stack • CloudWatch • Azure Monitor
-</p>
-
-<h3>🖥️ Systems & Scripting</h3>
-<p>
-  Linux • Bash • PowerShell
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h3>☁️ Cloud Platforms</h3>
+        <p>
+          <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+          <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+        </p>
+      </td>
+      <td align="center" width="33%">
+        <h3>⚙️ DevOps & CI/CD</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+          <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+          <img src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white" />
+        </p>
+      </td>
+      <td align="center" width="33%">
+        <h3>📦 Containers & Orchestration</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+          <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+          <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+          <img src="https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white" />
+          <img src="https://img.shields.io/badge/Azure_AKS-0078D4?style=for-the-badge&logo=azure-kubernetes-service&logoColor=white" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="33%">
+        <h3>🏗️ Infrastructure as Code</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+          <img src="https://img.shields.io/badge/AWS_CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+          <img src="https://img.shields.io/badge/ARM_Templates-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+        </p>
+      </td>
+      <td align="center" width="33%">
+        <h3>🤖 AI & Backend</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+          <img src="https://img.shields.io/badge/MLOps-0066CC?style=for-the-badge&logo=tensorflow&logoColor=white" />
+          <img src="https://img.shields.io/badge/AI_APIs-00B4B4?style=for-the-badge&logo=openai&logoColor=white" />
+        </p>
+      </td>
+      <td align="center" width="33%">
+        <h3>📊 Monitoring & Logging</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+          <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+          <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white" />
+          <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white" />
+          <img src="https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="33%" colspan="3">
+        <h3>🖥️ Systems & Scripting</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+          <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+          <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
   <img src="assets/images/gradient-line.png" width="100%" height="6px" />
@@ -119,11 +159,11 @@
 <p align="center">
 
 <a href="https://github.com/Patrickmbaza">
-<img src="https://gh-readme-profile.vercel.app/api?username=Patrickmbaza&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3" height="142px"/>
+<img src="https://gh-readme-profile.vercel.app/api?username=Patrickmbaza&theme=tokyonight&bg_color=0d1117&title_color=6C63FF&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3" height="142px"/>
 </a>
 
 <a href="https://github.com/Patrickmbaza">
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Patrickmbaza&show_icons=true&include_all_commits=true&count_private=true&theme=react&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" height="142px"/>
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Patrickmbaza&show_icons=true&include_all_commits=true&count_private=true&theme=react&bg_color=0d1117&title_color=6C63FF&icon_color=bf91f3&text_color=70a5fd" height="142px"/>
 </a>
 
 </p>
@@ -131,11 +171,11 @@
 <p align="center">
 
 <a href="https://github.com/Patrickmbaza">
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Patrickmbaza&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd" height="162px"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Patrickmbaza&theme=tokyonight&background=0d1117&stroke=6C63FF&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd" height="162px"/>
 </a>
 
 <a href="https://github.com/Patrickmbaza">
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Patrickmbaza&langs_count=8&layout=compact&theme=react&bg_color=0d1117&title_color=34a89d&text_color=70a5fd" height="162px"/>
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Patrickmbaza&langs_count=8&layout=compact&theme=react&bg_color=0d1117&title_color=6C63FF&text_color=70a5fd" height="162px"/>
 </a>
 
 </p>
@@ -146,7 +186,7 @@
 
 <div align="center">
   <a href="https://github.com/Patrickmbaza">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Patrickmbaza&theme=tokyo-night&bg_color=0d1117&color=34a89d&line=70a5fd&point=bf91f3&area=true&hide_border=true"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Patrickmbaza&theme=tokyo-night&bg_color=0d1117&color=6C63FF&line=70a5fd&point=bf91f3&area=true&hide_border=true"/>
   </a>
 </div>
 
@@ -163,7 +203,7 @@
 ## 🔗 Let’s Connect  
 
 <p align="center">
-  <a href="mailto:gotehmbaza@gmail.com"><img src="https://img.shields.io/badge/Gmail-bf91f3?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:gotehmbaza@gmail.com"><img src="https://img.shields.io/badge/Gmail-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/goteh-mbaza"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Patrickmbaza"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
@@ -173,3 +213,7 @@
 </p>
 
 <h6 align="center">⚡ Building scalable infrastructure • Automating everything • Powering AI systems</h6>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+</div>
