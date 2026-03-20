@@ -85,6 +85,7 @@
         <h3>☁️ Cloud Platforms</h3>
         <p>
           <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+          <br />
           <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
         </p>
       </td>
@@ -92,7 +93,9 @@
         <h3>⚙️ DevOps & CI/CD</h3>
         <p>
           <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+          <br />
           <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+          <br />
           <img src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white" />
         </p>
       </td>
@@ -100,9 +103,13 @@
         <h3>📦 Containers & Orchestration</h3>
         <p>
           <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+          <br />
           <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+          <br />
           <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+          <br />
           <img src="https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white" />
+          <br />
           <img src="https://img.shields.io/badge/Azure_AKS-0078D4?style=for-the-badge&logo=azure-kubernetes-service&logoColor=white" />
         </p>
       </td>
@@ -112,7 +119,9 @@
         <h3>🏗️ Infrastructure as Code</h3>
         <p>
           <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+          <br />
           <img src="https://img.shields.io/badge/AWS_CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+          <br />
           <img src="https://img.shields.io/badge/ARM_Templates-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
         </p>
       </td>
@@ -120,8 +129,11 @@
         <h3>🤖 AI & Backend</h3>
         <p>
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+          <br />
           <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+          <br />
           <img src="https://img.shields.io/badge/MLOps-0066CC?style=for-the-badge&logo=tensorflow&logoColor=white" />
+          <br />
           <img src="https://img.shields.io/badge/AI_APIs-00B4B4?style=for-the-badge&logo=openai&logoColor=white" />
         </p>
       </td>
@@ -129,9 +141,13 @@
         <h3>📊 Monitoring & Logging</h3>
         <p>
           <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+          <br />
           <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+          <br />
           <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white" />
+          <br />
           <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white" />
+          <br />
           <img src="https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
         </p>
       </td>
